@@ -1,0 +1,9 @@
+{
+  "name": "extract-pdf-table",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "pdf-table-extractor": "^1.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
